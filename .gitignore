@@ -1,0 +1,22 @@
+# 公開（GitHub Pages）するのは Day1 本番に必要なものだけ。それ以外は全部除外（ホワイトリスト方式）
+/*
+!/.gitignore
+!/index.html
+!/FISHTECHハッカソン_Day1_プレゼン.html
+!/images/
+/images/*
+!/images/bk.svg
+!/images/daimyo-procession.png
+!/images/fishtechlogo.png
+!/images/event-fish.jpg
+!/images/event-kuma.jpg
+!/images/sake-logo.png
+!/images/fish1.png
+!/images/fish2.png
+!/images/fish3.png
+!/images/fish4.png
+!/images/fish5.png
+!/images/fish6.png
+!/images/fish7.png
+!/images/fish8.png
+!/images/fish9.png
